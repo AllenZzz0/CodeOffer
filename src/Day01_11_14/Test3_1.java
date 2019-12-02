@@ -13,6 +13,7 @@ public class Test3_1 {
 
         if(arr.length <2 || arr == null){
             return false;
+
         }
         for(int i=0; i<arr.length; i++){
             //只要该位置上存放的不是它自己就一直交互下去
